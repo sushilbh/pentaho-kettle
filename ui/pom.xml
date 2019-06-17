@@ -3,16 +3,16 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>pentaho-kettle</groupId>
-  <artifactId>kettle-ui-swt</artifactId>
+  <groupId>sushil1-kettle</groupId>
+  <artifactId>susb-ui-swt</artifactId>
   <packaging>jar</packaging>
   <version>9.0.0.0-SNAPSHOT</version>
 
   <name>PDI User Interface</name>
 
   <parent>
-    <groupId>org.pentaho.di</groupId>
-    <artifactId>pdi</artifactId>
+    <groupId>org.sushil1.di</groupId>
+    <artifactId>susb</artifactId>
     <version>9.0.0.0-SNAPSHOT</version>
   </parent>
 
